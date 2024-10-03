@@ -61,13 +61,13 @@ If you want a .desktop file to add to your dock to launch the application rather
 
 3) Open your text editor (vim, vi, gedit) and enter the following:
 
-[Desktop Entry]
-Name=SWGEmu
-Type=Application
-Exec=/home/<username>/.wine/drive_c/Program\ Files\ (x86)/StarWarsGalaxies/SWGEmuLaunchpad
-Terminal=false
-Icon=/Directory/to/Image (/home/<username>/Pictures/swgemuicon.png
-Categories=Game
+> [Desktop Entry]
+> Name=SWGEmu
+> Type=Application
+> Exec=/home/<username>/.wine/drive_c/Program\ Files\ (x86)/StarWarsGalaxies/SWGEmuLaunchpad
+> Terminal=false
+> Icon=/Directory/to/Image (/home/<username>/Pictures/swgemuicon.png
+> Categories=Game
 
 4) Save the file as SWGEemu.desktop
 
